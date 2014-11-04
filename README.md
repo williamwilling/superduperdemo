@@ -1,9 +1,9 @@
-Super duper demo
-================
+Super! Duper! Demooooo!
+=======================
 
-Installation instructions
--------------------------
+Installation instruction
+------------------------
 
 Step 1. Install.
 
-Done.
+Done. :-)
